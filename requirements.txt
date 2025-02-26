@@ -1,0 +1,7 @@
+eth-account
+requests
+pycryptodome
+aiohttp
+aiofiles
+pytz
+colorama

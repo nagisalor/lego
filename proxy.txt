@@ -1,0 +1,2 @@
+REMOVE THIS
+format proxy http://username:password@ip:port and http://ip:host/port
