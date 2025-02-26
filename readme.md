@@ -5,7 +5,7 @@
 - Jalankan dulu ```reff.py``` setelah itu baru jalankan ```farming.py```
 
 ```
-git clone https://github.com/AirdropFamilyIDN-V2-0/layeredge.git
+git clone https://github.com/nagisalor/lego.git
 ```
 ```
 cd lego
