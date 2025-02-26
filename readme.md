@@ -8,16 +8,11 @@
 git clone https://github.com/AirdropFamilyIDN-V2-0/layeredge.git
 ```
 ```
-cd layeredge
-```
-```
-cd ref-LayerEdge-update
+cd lego
 ```
 ```
 python reff.py
 ```
-```
-python farming.py
 ```
 
 ## Script menggunakan delay agar server tidak overload,
